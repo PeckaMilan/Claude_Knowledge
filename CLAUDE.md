@@ -1,5 +1,8 @@
 # Claude_Knowledge - Central Knowledge Base
 
+[![GitHub](https://img.shields.io/badge/GitHub-Claude__Knowledge-green?logo=github)](https://github.com/PeckaMilan/Claude_Knowledge)
+[![Workflow](https://img.shields.io/badge/Workflow-Claude__Max-blue?logo=github)](https://github.com/PeckaMilan/Claude_Max)
+
 ## Purpose
 
 Centrální úložiště znalostí pro všechny Claude projekty. Všechny zjištění, patterny, řešení a best practices se ukládají zde a jsou sdíleny mezi projekty.
@@ -56,3 +59,16 @@ Each knowledge entry should have:
 - Duplicate detection
 - Confidence scoring
 - Regular cleanup of outdated entries
+
+## GitHub Repositories
+
+| Repository | Description | URL |
+|------------|-------------|-----|
+| **Claude_Knowledge** | Central knowledge base (this repo) | https://github.com/PeckaMilan/Claude_Knowledge |
+| **Claude_Max** | Workflow toolkit | https://github.com/PeckaMilan/Claude_Max |
+
+### Integration
+
+This knowledge base is integrated with [Claude_Max](https://github.com/PeckaMilan/Claude_Max) workflow via:
+- `/ckb` command - search and read knowledge
+- `central-kb` skill - automatic knowledge extraction
