@@ -1,7 +1,7 @@
 # Central Knowledge Base Index
 
 **Last Updated:** 2025-02-03
-**Total Entries:** 2
+**Total Entries:** 3
 
 ## Categories
 
@@ -30,6 +30,7 @@ Project-specific learnings that might be useful elsewhere.
 
 ## Recent Additions
 
+- [GCP Projects Overview](projects/gcp-projects-overview.md) - 2025-02-03
 - [GCP Service Account Authentication](technologies/gcp-service-account-auth.md) - 2025-02-03
 - [PowerShell Execution Policy Error](errors/powershell-execution-policy.md) - 2025-02-03
 
